@@ -32,3 +32,32 @@ An outlook on the expansion of the app with advanced features, such as the integ
 Finally, a UML class diagram offers further insights into the structure of the project and illustrates the underlying conceptual and technical aspects.
 
 ![00_UML](https://github.com/user-attachments/assets/e81ba218-fbff-4622-8f77-704ca86c2c7d)
+
+## Implementation Details
+
+The development of this application was accomplished using Python in conjunction with the Qt Designer, which facilitated the creation of a robust and intuitive user interface. The following screenshots provide a closer look at the user interface, showcasing its design and functionality. These visuals illustrate how the complex financial models are made accessible to users, allowing them to interact with the application seamlessly and effectively. By leveraging the capabilities of Qt Designer, the interface is both visually appealing and functionally rich, ensuring a smooth user experience.
+
+![01_mainwindow](https://github.com/user-attachments/assets/326d7f35-0e15-4033-939f-efbfd0760cf2)
+
+![02_sidebar](https://github.com/user-attachments/assets/0e9a1bf1-b72c-433b-a65b-72f1e5e1a861)
+
+![04_info](https://github.com/user-attachments/assets/b86d58f9-7149-4192-a8d4-f5c7bada0eff)
+
+![07_learninghub02](https://github.com/user-attachments/assets/ae135c40-6c20-45ea-992e-a78d8f85e2ad)
+
+![11_default](https://github.com/user-attachments/assets/bc0025c2-1bde-4167-a6ba-b76615d069c2)
+
+![16_output](https://github.com/user-attachments/assets/433bdf94-9cde-485c-890e-d015bfa3ed7f)
+
+![18_convergence01](https://github.com/user-attachments/assets/f3a5a836-c338-4607-8b56-525e90ac348b)
+
+![20_strangle](https://github.com/user-attachments/assets/24598437-61d1-4940-b12f-bbcdb463f693)
+
+![23_trinomialtree](https://github.com/user-attachments/assets/fb342299-9d08-4af7-80a5-a207425c0de5)
+
+## Note
+
+Please note that the user interface and all comments are in German, as the accompanying bachelor's thesis was also written in German. This linguistic consistency ensures seamless integration between the application and the written work.
+
+
+
